@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Automação { Fluxos }<br>Server Side { Tracking }<br> Integração { APIs }<br> Agentes { Ai }</p>
+<p align="center">Automação { Fluxos }<br>Server Side { Tracking }<br>Integração { APIs }<br>Agentes AI { Dev }<br>APP { Dev }</p>
 
 ###
 
@@ -23,8 +23,6 @@
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=firebase" height="45" alt="firebase logo"  />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="45" alt="cloudflare logo"  />
-  <img width="16" />
   <img src="https://skillicons.dev/icons?i=azure" height="45" alt="azure logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=gcp" height="45" alt="googlecloud logo"  />
@@ -39,7 +37,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asessagit&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=react&locale=pt-br&hide_border=true&order=1&custom_title=Alexandre%20Di%20Sessa" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=asessagit&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=react&locale=pt-br&hide_border=true&order=1&custom_title=Alexandre%20Di%20Sessa" height="300" alt="stats graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=asessagit&radius=16&theme=react&area=true&order=5&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
